@@ -16,8 +16,8 @@ ExamOnline 是一套用于在线考试的系统。我们致力于提供一个可
 
 - [online-exam-deploy](https://github.com/SDMU-online-exam-system/online-exam-deploy) - 服务快速部署指南
 - [online-exam](https://github.com/SDMU-online-exam-system/online-exam) - 在线考试系统的主要后端代码
-- [online-exam-front](https://github.com/SDMU-online-exam-system/online-exam-front)) - 考试系统管理端代码
-- [online-exam-user-front](https://github.com/SDMU-online-exam-system/online-exam-user-front)) - 考试系统学生端代码
+- [online-exam-front](https://github.com/SDMU-online-exam-system/online-exam-front) - 考试系统管理端代码
+- [online-exam-user-front](https://github.com/SDMU-online-exam-system/online-exam-user-front) - 考试系统学生端代码
 - [OnlineJudge](https://github.com/SDMU-online-exam-system/OnlineJudge) - 定制化的判题服务后端
 
 ## 如何贡献
