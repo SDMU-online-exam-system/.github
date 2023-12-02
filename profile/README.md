@@ -28,7 +28,7 @@ ExamOnline 是一套用于在线考试的系统。我们致力于提供一个可
 - 修复 Bug
 - 添加新的功能
 - 改进文档
--  spreading the word
+
 
 
 感谢您的参与!
